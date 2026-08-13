@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv/
+venv/
+env/
+.env.local
+
+# Bot Logs & Files
+*.log
+*.sqlite
+*.db
+obf_*.lua
