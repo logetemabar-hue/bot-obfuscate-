@@ -30,7 +30,7 @@ HEADER = """--[[
                    SANZZLUA ObfuscatorAnti-AI
                       (LUA / PWN / HTML)
 ================================================================
-  Website     : local
+  Website     : https://dazzling-shortbread-a9ec1f.netlify.app
   Obfuscation : Runtime polymorphic
   Anti-tamper : C verification
   Entropy     : High
